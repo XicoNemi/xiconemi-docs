@@ -1,8 +1,7 @@
 #  📂DataDictionary (Diccionario de Datos) 
-## DBs/SQL/DataDictionary
+## DBs/NoSQL/DataDictionary
 
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 # 📖 Diccionario de Datos  
 
