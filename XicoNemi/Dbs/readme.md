@@ -19,6 +19,6 @@ Esta carpeta contiene la gestión de bases de datos utilizadas en el proyecto, t
 | Jose Angel Fosado Animas         | 📧 [@JFosado](https://github.com/JFosado)          | Frontend            | ❌ Sin observaciones |
 | Eli Haziel Ortiz Ramirez         | 📧 [@inncol-eortiz](https://github.com/inncol-eortiz)        | Frontend            | ❌ Sin observaciones |
 | Jose Alejandro Briones Arroyo    | 📧 [@alexba2004](https://github.com/alexba2004)      | DevOps              | ❌ Sin observaciones |
-| Leslie Jannet Aparicio Castro    | 📧 [@leslie-aparicio](https://github.com/leslie-aparicio)  | Documentación       | ❌ Sin observaciones |
+| Leslie Janet Aparicio Castro    | 📧 [@leslie-aparicio](https://github.com/leslie-aparicio)  | Documentación       | ✅ Revisado y Aprobado |
 
 ---

@@ -8,6 +8,7 @@
 Esta carpeta contiene la documentación y recursos relacionados con bases de datos NoSQL. A continuación se describen las subcarpetas incluidas:
 
 - **Backups**: Contiene copias de seguridad de las bases de datos.
+- **DataDictionary**: Contiene información como nombres de los campos, tipos de datos, restricciones, relaciones entre tablas y su propósito dentro del sistema.
 - **Diagrams**: Incluye diagramas que representan la estructura de las bases de datos.
 - **Models**: Almacena los modelos de datos utilizados en las bases de datos.
 - **Queries**: Contiene las consultas NoSQL.
